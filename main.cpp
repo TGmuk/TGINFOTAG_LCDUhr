@@ -28,6 +28,7 @@ void sekundenErhöhen(void){
     sekunden++;
 }
 
+
 void initTimer(){
 
     RCC->APB1ENR |=0b10000;
