@@ -10,7 +10,7 @@ Verstellbare Uhr auf dem LCD
 
 Die Uhr zählt so wie eine Uhr.
 
-Mit PA_10 können die Stunden eingestellt werden.
+Mit PA_10 können die Stunden eingestellt werden.  
 Mit PA_6 können die Minuten eingestellt werden.  
 Mit PA_1 können die Sekunden eingestellt werden.
 
