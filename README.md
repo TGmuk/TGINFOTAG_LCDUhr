@@ -1,10 +1,19 @@
-# Template for PlatformIO and Keil Studio
+# Uhr auf LCD
 
-This is a template for projects that are programmed using PlatformIO and Keil Studio.
+Verstellbare Uhr auf dem LCD
 
-## Library's
-Libs should be placed in the lib folder.  
-Keil Studio .lib files are only supported in Keil Studio and are ignored/not compiled in PlatformIO.  
-This Folder should be treated as the "original" lib folder in PlatformIO.
+# Module
 
+- Nix
 
+## Notes
+
+Die Uhr zählt so wie eine Uhr.
+
+Mit PA_10 können die Stunden eingestellt werden.
+Mit PA_6 können die Minuten eingestellt werden.  
+Mit PA_1 können die Sekunden eingestellt werden.
+
+Das Projekt kann sowohl in Keil Studio als auch mit PlatformIO geöffnet werden.
+
+Gemacht von Leo (Initiale Implementierung: Justin)
